@@ -1,100 +1,100 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Modularity k
+  - Components k
+  - Directories k
+  - GRASP k
+  - SOLID u
+  - GoF patterns k
+  - CQS k
+  - Leaking abstractions k
+  - Multiparadigm code k
+  - Contract programming k
+  - Platform-agnostic k
+  - Transport-agnostic k
+  - Framework-agnostic k
+  - Code coverage u
+  - Cohesion u
+  - Coupling u
+  - Cyclomatic complexity u
+  - Reliability u
+  - Quality u
+  - Availability u
+  - Flexibility u
+  - Law of Demeter (LoD) u
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
-  - Agent
-  - Service locator
-  - Message Queue (MQ)
-  - CQRS
-  - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
-  - IDEF1X
-  - UML
-  - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
-  - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
-  - Vendor lock-in
-  - Bus factor
+  - Isolation between layer k
+  - Domain-specific language (DSL) k
+  - System vs applied code k
+  - Multilayer approach h
+  - Hexagonal architecture h
+  - Separation of concerns (SoC) h
+  - Metaprogramming h
+  - Inversion of control (IoC) h
+  - Dependency injection (DI) h
+  - Clean architecture h
+  - Domain-driven design (DDD) h
+  - Pub/sub h
+  - Message brocker h
+  - Agent h
+  - Service locator h
+  - Message Queue (MQ) h
+  - CQRS h
+  - Event sourcing h
+  - E-R data modeling h
+  - Entity-relationship diagram h
+  - IDEF1X h
+  - UML h
+  - Work breakdown structure h
+  - Budget estimation h
+  - Distributed systems h
+  - High-intensive computing h
+  - Load balancing h
+  - Gateways h
+  - On-premises h
+  - IaaS h
+  - PaaS h
+  - SaaS h
+  - FaaS clouds h
+  - Serverless h
+  - Vendor lock-in h
+  - Bus factor h
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds
-  - BPMN
-  - Low-code
-  - No-code
-  - Metric
-  - Metric abuse
-  - ACID
-  - CAP theorem
-  - Single source of truth (SSOT)
+  - A software requirements specification (SRS) k
+  - Solution visions k
+  - Solution capabilities k
+  - System design k
+  - Process modelling k
+  - Data modelling k
+  - Solution components k
+  - Risk assessment k
+  - Non Functional Requirements (NFR) k
+  - Clouds k
+  - BPMN k
+  - Low-code k
+  - No-code u
+  - Metric k
+  - Metric abuse k
+  - ACID k
+  - CAP theorem h
+  - Single source of truth (SSOT) h
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
-  - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
-  - Process choreography
-  - Service orchestration
-  - Data warehouse
-  - Business Intelligence
-  - OLAP
-  - OLTP
-  - Conways Law
-  - Quality assurance
+  - Understanding business needs h
+  - Enterprise strategy h
+  - Integration with subsystems h
+  - Enterprise vision h
+  - Enterprise capabilities h
+  - Project scope h
+  - Enterprise service bus h
+  - Service-oriented architecture h
+  - Microservices h
+  - Process choreography h
+  - Service orchestration h
+  - Data warehouse h
+  - Business Intelligence h
+  - OLAP h
+  - OLTP h
+  - Conways Law 
+  - Quality assurance h
   - Engineering Hygiene
