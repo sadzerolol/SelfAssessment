@@ -1,7 +1,7 @@
 ## JavaScript
 
 - Language
-  - `Object`u
+  - `Object` u
   - `Function`: 🖐️ used
   - `Boolean`: 🖐️ used
   - `Number`: 🖐️ used
@@ -38,14 +38,14 @@
   - Bitwise operators: 🖐️ used
   - Ternary operator: 🖐️ used
   - `void`: 🎓 known
-  - `yield`k
+  - `yield` k
   - `await`: 🎓 known
   - Template literal: 🎓 known
   - Strict mode: 🎓 known
   - Hoisting: 🎓 known
-  - `delete`k
+  - `delete` k
   - `in`: 🎓 known
-  - `super`k
+  - `super` k
   - `eval`: 🎓 known
   - `static`: 🎓 known
   - `Number.parseInt`: 🖐️ used
@@ -113,7 +113,7 @@
   - `Promise`: 🖐️ used
   - `console`: 🖐️ used
   - Timers
-- Infrastructure u
+- Infrastructure
   - V8
   - Node.js
   - npm
