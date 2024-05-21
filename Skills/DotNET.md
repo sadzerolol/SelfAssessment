@@ -46,12 +46,12 @@
   - Network security (DDoS, XSS, CSRF prevention): 👂 heard
   - Serialization and deserialization (JSON, XML): 🎓 known
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit: 🎓 known
-  - Integration testing: 🎓 known
-  - Logging and tracing: 🎓 known
-  - Application monitoring and telemetry: 🎓 known
-  - Debugging tools and strategies: 🎓 known
-  - Performance profiling and analysis: 🎓 known
+  - Unit testing with frameworks like xUnit, NUnit: u
+  - Integration testing: u
+  - Logging and tracing: u
+  - Application monitoring and telemetry: u
+  - Debugging tools and strategies: u
+  - Performance profiling and analysis: u
 - Data Access and ORM
   - Entity Framework Core: 🖐️ used
   - Dapper: 🖐️ used
