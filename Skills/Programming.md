@@ -1,8 +1,8 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model: u
-  - Modeling: u
+  - Model: 🖐️ used
+  - Modeling: 🖐️ used
   - Subject domain: 🖐️ used
   - Algorithm: 🖐️ used
   - Syntax: 🖐️ used
@@ -26,11 +26,11 @@
   - Software engineering: 🎓 known
   - Decomposition: 🎓 known
   - Control flow: 🎓 known
-  - Data flow: u
-  - Code reuse: u
-  - Defensive programming: u
-  - Don't repeat yourself (DRY): u
-  - KISS principle: u
+  - Data flow: 🖐️ used
+  - Code reuse: 🖐️ used
+  - Defensive programming: 🖐️ used
+  - Don't repeat yourself (DRY): 🖐️ used
+  - KISS principle: 🖐️ used
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier: 🖐️ used
@@ -137,7 +137,7 @@
   - CORS: 🖐️ used
   - IPv4: 🖐️ used
   - IPv6: 🖐️ used
-  - NAT: u
+  - NAT: 🖐️ used
   - URL: 🖐️ used
   - URN: 🖐️ used
   - URI: 🖐️ used
@@ -208,10 +208,10 @@
   - CLR: 🖐️ used
   - Mono: 🖐️ used
 - Operating systems
-  - Interrupts: h
-  - Drivers: h
+  - Interrupts: 👂 heard
+  - Drivers: 👂 heard
   - Kernel: 🖐️ used
-  - Ring: h
+  - Ring: 👂 heard
   - Virtual memory: 🖐️ used
   - File system: 🖐️ used
   - Linux: 🖐️ used
@@ -232,8 +232,8 @@
   - ECMA: 🖐️ used
   - ICANN: 🖐️ used
   - ISO: 🖐️ used
-  - MIME: h
-  - OWASP: h
-  - UTF-8: h
-  - W3C: h
-  - ODMG: h
+  - MIME: 👂 heard
+  - OWASP: 👂 heard
+  - UTF-8: 👂 heard
+  - W3C: 👂 heard
+  - ODMG: 👂 heard

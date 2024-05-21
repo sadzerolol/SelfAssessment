@@ -11,7 +11,7 @@
   - Key-value store: 🎓 known
   - Tuple store: 🎓 known
   - Graph databases: 🎓 known
-  - Object databases: u
+  - Object databases: 🖐️ used
   - Column databases: 🎓 known
   - Navigational databases: 🎓 known
   - Hierarchical databases: 🎓 known
@@ -22,19 +22,19 @@
   - Data manipulation language (DML): 🎓 known
   - Data query language (DQL): 🎓 known
 - Relational
-  - Entity-Relationship Diagram: u
-  - Normal forms:  u
-  - Indexing:  u
-  - Primary keys: u
-  - Foreign keys: u
-  - Transactions: u
-  - Views: u
-  - Subqueries: u
-  - Stored procedures: u
-  - SQL functions: u
-  - Materialized views: u
-  - Replications: u
-  - Virtualization: u
+  - Entity-Relationship Diagram: 🖐️ used
+  - Normal forms: 🖐️ used
+  - Indexing: 🖐️ used
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
+  - Transactions: 🖐️ used
+  - Views: 🖐️ used
+  - Subqueries: 🖐️ used
+  - Stored procedures: 🖐️ used
+  - SQL functions: 🖐️ used
+  - Materialized views: 🖐️ used
+  - Replications: 🖐️ used
+  - Virtualization: 🖐️ used
 - SQL
   - `SELECT`: 🖐️ used
   - `INSERT`: 🖐️ used
