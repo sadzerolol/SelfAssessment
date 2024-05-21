@@ -4,16 +4,16 @@
   - Modularity: 🎓 known
   - Components: 🎓 known
   - Directories: 🎓 known
-  - GRASP: 🎓 known
+  - GRASP: 🖐️ used
   - SOLID: 🖐️ used
   - GoF patterns: 🎓 known
-  - CQS: 🎓 known
+  - CQS: 🖐️ used
   - Leaking abstractions: 🎓 known
   - Multiparadigm code: 🎓 known
   - Contract programming: 🎓 known
   - Platform-agnostic: 🎓 known
   - Transport-agnostic: 🎓 known
-  - Framework-agnostic: 🎓 known
+  - Framework-agnostic: 🖐️ used
   - Code coverage: 🖐️ used
   - Cohesion: 🖐️ used
   - Coupling: 🖐️ used
@@ -41,11 +41,11 @@
   - Service locator: 👂 heard
   - Message Queue (MQ): 👂 heard
   - CQRS: 👂 heard
-  - Event sourcing: 👂 heard
+  - Event sourcing: 🖐️ used
   - E-R data modeling: 👂 heard
   - Entity-relationship diagram: 👂 heard
   - IDEF1X: 👂 heard
-  - UML: 👂 heard
+  - UML: 🖐️ used
   - Work breakdown structure: 👂 heard
   - Budget estimation: 👂 heard
   - Distributed systems: 👂 heard
@@ -53,7 +53,7 @@
   - Load balancing: 👂 heard
   - Gateways: 👂 heard
   - On-premises: 👂 heard
-  - IaaS: 👂 heard
+  - IaaS: 🖐️ used
   - PaaS: 👂 heard
   - SaaS: 👂 heard
   - FaaS clouds: 👂 heard
@@ -80,18 +80,18 @@
   - CAP theorem: 👂 heard
   - Single source of truth (SSOT): 👂 heard
 - Enterprise architecture
-  - Understanding business needs: 👂 heard
-  - Enterprise strategy: 👂 heard
-  - Integration with subsystems: 👂 heard
-  - Enterprise vision: 👂 heard
-  - Enterprise capabilities: 👂 heard
-  - Project scope: 👂 heard
-  - Enterprise service bus: 👂 heard
-  - Service-oriented architecture: 👂 heard
-  - Microservices: 👂 heard
-  - Process choreography: 👂 heard
-  - Service orchestration: 👂 heard
-  - Data warehouse: 👂 heard
+  - Understanding business needs: 🖐️ used
+  - Enterprise strategy: 🖐️ used
+  - Integration with subsystems: 🖐️ used
+  - Enterprise vision: 🖐️ used
+  - Enterprise capabilities: 🖐️ used
+  - Project scope: 🖐️ used
+  - Enterprise service bus: 🖐️ used
+  - Service-oriented architecture: 🖐️ used
+  - Microservices: 🖐️ used
+  - Process choreography: 🖐️ used
+  - Service orchestration: 🖐️ used
+  - Data warehouse: 🖐️ used
   - Business Intelligence: 👂 heard
   - OLAP: 👂 heard
   - OLTP: 👂 heard
