@@ -4,16 +4,16 @@
   - Modularity: 🎓 known
   - Components: 🎓 known
   - Directories: 🎓 known
-  - GRASP: 🎓 known
+  - GRASP: u
   - SOLID: 🖐️ used
   - GoF patterns: 🎓 known
-  - CQS: 🎓 known
+  - CQS: u
   - Leaking abstractions: 🎓 known
   - Multiparadigm code: 🎓 known
   - Contract programming: 🎓 known
   - Platform-agnostic: 🎓 known
   - Transport-agnostic: 🎓 known
-  - Framework-agnostic: 🎓 known
+  - Framework-agnostic: u
   - Code coverage: 🖐️ used
   - Cohesion: 🖐️ used
   - Coupling: 🖐️ used
@@ -41,11 +41,11 @@
   - Service locator: 👂 heard
   - Message Queue (MQ): 👂 heard
   - CQRS: 👂 heard
-  - Event sourcing: 👂 heard
+  - Event sourcing: u
   - E-R data modeling: 👂 heard
   - Entity-relationship diagram: 👂 heard
   - IDEF1X: 👂 heard
-  - UML: 👂 heard
+  - UML: u
   - Work breakdown structure: 👂 heard
   - Budget estimation: 👂 heard
   - Distributed systems: 👂 heard
@@ -53,7 +53,7 @@
   - Load balancing: 👂 heard
   - Gateways: 👂 heard
   - On-premises: 👂 heard
-  - IaaS: 👂 heard
+  - IaaS: u
   - PaaS: 👂 heard
   - SaaS: 👂 heard
   - FaaS clouds: 👂 heard
@@ -80,18 +80,18 @@
   - CAP theorem: 👂 heard
   - Single source of truth (SSOT): 👂 heard
 - Enterprise architecture
-  - Understanding business needs: 👂 heard
-  - Enterprise strategy: 👂 heard
-  - Integration with subsystems: 👂 heard
-  - Enterprise vision: 👂 heard
-  - Enterprise capabilities: 👂 heard
-  - Project scope: 👂 heard
-  - Enterprise service bus: 👂 heard
-  - Service-oriented architecture: 👂 heard
-  - Microservices: 👂 heard
-  - Process choreography: 👂 heard
-  - Service orchestration: 👂 heard
-  - Data warehouse: 👂 heard
+  - Understanding business needs: u
+  - Enterprise strategy: u
+  - Integration with subsystems: u
+  - Enterprise vision: u
+  - Enterprise capabilities: u
+  - Project scope: u
+  - Enterprise service bus: u
+  - Service-oriented architecture: u
+  - Microservices: u
+  - Process choreography: u
+  - Service orchestration: u
+  - Data warehouse: u
   - Business Intelligence: 👂 heard
   - OLAP: 👂 heard
   - OLTP: 👂 heard
