@@ -64,12 +64,12 @@
   - Interface segregation principle (ISP): 🖐️ used
   - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
-  - Singleton: 🎓 known
+  - Singleton: u
   - Factory Method: 🎓 known
   - Abstract Factory: 🎓 known
   - Adapter: 🎓 known
   - Observer: 🎓 known
-  - Strategy: 🎓 known
+  - Strategy: u
   - Facade: 🎓 known
   - Proxy: 🎓 known
   - Chain of Responsibility: 🎓 known
